@@ -16,6 +16,7 @@ const GlogalStyles = styled.div`
 function App() {
 	return (
 		<GlogalStyles>
+
 			<Serviços />
 		</GlogalStyles>
 
